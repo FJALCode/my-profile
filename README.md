@@ -1,6 +1,8 @@
 # My Profile
 Ejercicio de creación de "My profile" de LeWagon
 
+Puedes previsualizar el sitio web dando [click acá](https://fjalcode.github.io/my-profile/)
+
 ## Herramientas
 
 Para este proyecto se utilizarón las siguientes herramientas
